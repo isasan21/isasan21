@@ -20,6 +20,3 @@ I am a transfer student and transferred from an art school! Here is a link to my
   <li> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> My favorite medium is digital art. I am proficient in illustration software such as procreate and photoshop.   </li> 
 	  </li> 
  <ul> 
-   
-![image](https://user-images.githubusercontent.com/119474547/213598179-85bab4b2-e6db-4034-a2f5-578a04ce0abb.png)
-
