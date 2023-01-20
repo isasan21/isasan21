@@ -3,7 +3,7 @@
 
 Hola <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> My name is Isabella Bejar. I am an IT major at RVCC. I am a transfer student and transferred from an art school!
 
-Here is some of my <a href="https://www.instagram.com/isabearart/">art</a>.
+Here is a link to my <a href="[https://www.instagram.com/isabearart/](https://www.artstation.com/isabelas3)">art</a>.
 
 Here are some fun facts about me
 
