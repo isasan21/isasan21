@@ -22,4 +22,4 @@ I am a transfer student and transferred from an art school! Here is a link to my
  <ul> 
 
 	
-	![cat-dancing](https://user-images.githubusercontent.com/119474547/213835575-88dd1d8f-d971-4e9c-be63-cb40d2a5bcef.gif)
+
